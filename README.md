@@ -10,24 +10,3 @@ Here are snapshots of the project
 ![Screenshot 2023-08-22 at 3 48 25 PM](https://github.com/sanathdevop/employee-mgmt-system/assets/142888147/1ebdec7d-6554-4c4e-9170-39bf822bffe0)
 
 
-## How to use?
-
-Clone the project
-
-```bash
-  git clone https://github.com/Shivakumar1V/Office-Employee-Management-System-using-Django
-```
-
-Install dependencies
-
-```bash
-  pip install -r requirements.txt
-```
-
-Start the server
-
-```bash
-  python manage.py runserver
-```
-- It will run the application on localhost
-- Open the browser visit [localhost:8000](http://localhost:8000) and enjoy the application
